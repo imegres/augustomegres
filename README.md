@@ -1,4 +1,4 @@
-### Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> 
+### Olá, seja bem vindo(a) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> 
 
 Prazer, meu nome é José Augusto, mas podem me chamar de Zé, tenho 24 anos, e resido temportariamene em Cataguases - MG.
 Há pouco mais que 1 ano resolvi mudar completamente minha carreira, pois encontrei no desenvolvimento a minha paixão.
