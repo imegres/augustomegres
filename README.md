@@ -11,7 +11,7 @@ Há pouco mais que 1 ano resolvi mudar completamente minha carreira, pois encont
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=augustomegres)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[<img src="https://img.shields.io/github/followers/beatrizadm?label=follow&style=social" height="22" title="Follow me" />](https://github.com/augustomegres) 
+[<img src="https://img.shields.io/github/followers/augustomegres?label=follow&style=social" height="22" title="Follow me" />](https://github.com/augustomegres) 
 [<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-augusto-megres-de-oliveira-4a9530183" height="22" title="LinkedIn" />](https://www.linkedin.com/in/josé-augusto-megres-de-oliveira-4a9530183) 
 
 
