@@ -1,10 +1,11 @@
-### Olá, seja bem vindo(a) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> 
 
-Prazer, meu nome é José Augusto, mas podem me chamar de Zé, tenho 25 anos, e resido temporariamente em Cataguases - MG.
-Há pouco mais que 1 ano resolvi mudar completamente minha carreira, pois encontrei no desenvolvimento a minha paixão.
 ![Alt Text](https://media3.giphy.com/media/Cct2TIEXnpD7uwL7J9/giphy.gif?cid=790b7611733a260a57f8598d9d9b22a69eafec3be2f723ac&rid=giphy.gif&ct=g)
 ![Snake animation](https://github.com/augustomegres/augustomegres/blob/output/github-contribution-grid-snake.svg)
   
+<h1>Olá, seja bem vindo(a)</h1>
+Prazer, meu nome é José Augusto, mas podem me chamar de Zé, tenho 25 anos, e resido temporariamente em Cataguases - MG.
+Há pouco mais que 1 ano resolvi mudar completamente minha carreira, pois encontrei no desenvolvimento a minha paixão.
+
 🕵️‍♀️ Um curioso que se apaixonou por desenvolvimento.
 
 👯 Disponível para aprender e trabalhar junto em projetos de estudo.
