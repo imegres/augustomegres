@@ -3,7 +3,7 @@
 
 <h1>Olá, seja bem vindo(a)</h1>
 Prazer, meu nome é José Augusto, mas podem me chamar de Zé, tenho 25 anos, e resido temporariamente em Cataguases - MG.
-Há pouco mais que 1 ano resolvi mudar completamente minha carreira, pois encontrei no desenvolvimento a minha paixão.
+Encontrei no desenvolvimento a minha paixão.
 
 ![Snake animation](https://github.com/augustomegres/augustomegres/blob/output/github-contribution-grid-snake.svg)
   
