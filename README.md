@@ -14,12 +14,12 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:jose.megres@gmail.com" target="_blank" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jose.megres@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/megres/" /></a>
+  <a href="https://linkedin.com/in/megres" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/megres" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://wa.me/5532936180639" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5532936180639"/></a>
 </p>  
