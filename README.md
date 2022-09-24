@@ -1,14 +1,25 @@
-<img  src="https://github.com/augustomegres/augustomegres/blob/main/Digital%20world%20-%20Pixel%20Art%20-%20Social%20art%20Prize.gif?raw=true" width="100%" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<p align="left"> 
+  Olá, sou o zé, um desenvolvedor fullstack desde 2020.<br>
+  Atualmente estou trabalhando como desenvolvedor fullstack na <strong>Mazzatech</strong>.
+</p>
 
-<h1>Olá, seja bem vindo(a)</h1>
-Prazer, meu nome é José Augusto, mas podem me chamar de Zé, tenho 25 anos, e resido temporariamente em Cataguases - MG.
-Encontrei no desenvolvimento a minha paixão.
+<p align="left">
+  🦄 Linguagens/Techs: <strong>Javascript, Typescript, SQL, NoSQL, React, Vue, NodeJS, Docker e Git.</strong>
+</p>
 
-![Snake animation](https://github.com/augustomegres/augustomegres/blob/output/github-contribution-grid-snake.svg)
-  
+<p align="left">
+  💌 Aqui vão meus contatos pessoais: ⤵️
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=augustomegres)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jose.megres@gmail.com" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/megres/" /></a>
 
-[<img src="https://img.shields.io/github/followers/augustomegres?label=follow&style=social" height="22" title="Follow me" />](https://github.com/augustomegres)
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5532936180639"/></a>
+</p>  
